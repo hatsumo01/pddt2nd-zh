@@ -6,6 +6,6 @@
 
 **感谢：表EU，里EU，Fantasy_GM**
 
-**更新/下载https://github.com/hatsumo01/pdaft-zh/releases**
+**更新/下载https://github.com/hatsumo01/pddt2nd-zh/releases**
 
 ## 录制视频请标明补丁作者：废宅はつも
